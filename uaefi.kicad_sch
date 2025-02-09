@@ -17278,7 +17278,7 @@
 		(uuid "04b13b08-74ec-468a-813c-0eb7d53bba2c")
 	)
 	(label "OUT_IGN3"
-		(at 44.45 110.49 0)
+		(at 44.45 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17872,7 +17872,7 @@
 		(uuid "46323a99-9fc8-47e1-9b0c-0fee64e06eed")
 	)
 	(label "OUT_IGN5"
-		(at 101.6 358.14 0)
+		(at 133.35 358.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18125,7 +18125,7 @@
 		(uuid "5f200bdf-8335-4664-911d-57312c83963d")
 	)
 	(label "OUT_IGN4"
-		(at 133.35 358.14 0)
+		(at 133.35 355.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18213,7 +18213,7 @@
 		(uuid "62abe78f-cb26-4c4b-8021-6adf35d2c67c")
 	)
 	(label "OUT_IGN5"
-		(at 44.45 107.95 0)
+		(at 44.45 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18356,7 +18356,7 @@
 		(uuid "6e5c2f97-0a7f-4c29-8a4a-c8cde410799f")
 	)
 	(label "OUT_IGN4"
-		(at 44.45 113.03 0)
+		(at 44.45 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19533,7 +19533,7 @@
 		(uuid "f2ebb442-87cb-4c62-b5d6-e53099c68ad5")
 	)
 	(label "OUT_IGN3"
-		(at 133.35 355.6 0)
+		(at 101.6 358.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
